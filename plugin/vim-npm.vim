@@ -7,6 +7,4 @@ if exists("g:loaded_vimnpm") || v:version < 700
     finish
 endif
 
-let g:loaded_vimnpm = 1
-
-function!  
+let g:loaded_vimnpm = 1 
